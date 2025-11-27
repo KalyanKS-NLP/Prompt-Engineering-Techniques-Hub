@@ -22,9 +22,13 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 
 | # | Category | Technique | Description | Learn |
 |---|----------|-----------|-------------|--------|
-| 1 | Basic    | Zero-shot Prompting | Prompting without examples | Link |
-| 2 | Basic    | Emotion Prompting | Prompting with emotional cues | Link |
-| 3 | Basic    | Role Prompting | Model acts by adopting a specified role | Link |
-| 4 | Basic    | Batch Prompting | Model processes multiple inputs in one prompt | Link | 
-| 5 | Basic    | Few-Shot Prompting | Prompting with examples | Link |
+| 1 | Basic    | Zero-shot Prompting | Prompting without examples | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/Zero_Shot_Prompting.md)  |
+| 2 | Basic    | Emotion Prompting | Prompting with emotional cues | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/Emotion_Prompting.md) |
+| 3 | Basic    | Role Prompting | Model acts by adopting a specified role | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/Role_Prompting.md) |
+| 4 | Basic    | Batch Prompting | Model processes multiple inputs in one prompt | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/Batch_Prompting.md) | 
+| 5 | Basic    | Few-Shot Prompting | Prompting with examples | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/few_shot_prompting.md) |
 | 6 | Advanced <br> - Zero Shot Reasoning | Zero-Shot CoT Prompting | Step-by-step reasoning without examples | Link | 
+| 7 | Advanced <br> - Zero Shot Reasoning | Chain of Draft (CoD) Prompting | Step-by-step reasoning in a compact form without examples | Link |
+| 8 | Advanced <br> - Zero Shot Reasoning | Meta Prompting | Step-by-step reasoning with structured blueprint | Link | 
+| 9 | Advanced <br> - Zero Shot Reasoning | Thread of Thoughts Prompting | Breaks chaotic context into parts, summarizes, filters, then answers | Link |
+| 10 | Advanced <br> - Zero Shot Reasoning | Tabular CoT Prompting | Step-by-step reasoning in tabular format | Link | 

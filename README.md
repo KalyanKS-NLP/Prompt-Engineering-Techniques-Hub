@@ -51,3 +51,10 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | 27 | Advanced <br> - Multilingual | Cross Lingual Prompting | Translate for meaning first, then step-step reason in a stronger language | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Advanced_Prompt_Engineering_Techniques/Cross_Lingual_Prompting.md) |
 | 28 | Advanced <br> - Multi-Step | Rephrase and Respond Prompting | Rewrite the question clearly, then answer the clarified version | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Advanced_Prompt_Engineering_Techniques/Rephrase_and_Respond_Prompting.md) |
 | 29 | Advanced <br> - Multi-Step | Step Back Prompting | Identify the general principle first, then solve the specific problem | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Advanced_Prompt_Engineering_Techniques/Step_Back_Prompting.md) | 
+
+
+## ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KalyanKS-NLP/Prompt-Engineering-Techniques-Hub&type=Date)](https://star-history.com/#)
+
+Please consider giving a star, if you find this repository useful. 

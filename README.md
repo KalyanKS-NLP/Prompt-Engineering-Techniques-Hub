@@ -19,3 +19,12 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 - ✨ Weekly GenAI updates
 - 📄 Weekly LLM, Agents and RAG paper updates
 - 📝 1 fresh blog post on an interesting topic every week
+
+| # | Category | Technique | Description | Learn |
+|---|----------|-----------|-------------|--------|
+| 1 | Basic    | Zero-shot Prompting | Prompting without examples | Link |
+| 2 | Basic    | Emotion Prompting | Prompting with emotional cues | Link |
+| 3 | Basic    | Role Prompting | Model acts by adopting a specified role | Link |
+| 4 | Basic    | Batch Prompting | Model processes multiple inputs in one prompt | Link | 
+| 5 | Basic    | Few-Shot Prompting | Prompting with examples | Link |
+| 6 | Advanced <br> - Zero Shot Reasoning | Zero-Shot CoT Prompting | Step-by-step reasoning without examples | Link | 

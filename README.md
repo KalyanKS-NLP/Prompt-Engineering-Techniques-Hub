@@ -15,7 +15,7 @@ This repo contains implementation of 25+ prompt engineering techniques.
 
 ## Stay Updated with Generative AI, LLMs, Agents and RAG.
 
-Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
+🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. [Subscribe Link](https://aixfunda.substack.com/) 
 - ✨ Weekly GenAI updates
 - 📄 Weekly LLM, Agents and RAG paper updates
 - 📝 1 fresh blog post on an interesting topic every week

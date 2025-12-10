@@ -13,13 +13,6 @@ This repo contains implementation of 25+ prompt engineering techniques.
 	
 </p>
 
-## Stay Updated with Generative AI, LLMs, Agents and RAG.
-
-🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. [Subscribe Link](https://aixfunda.substack.com/) 
-- ✨ Weekly GenAI updates
-- 📄 Weekly LLM, Agents and RAG paper updates
-- 📝 1 fresh blog post on an interesting topic every week
-
 | # | Category | Technique | Description | Learn |
 |---|----------|-----------|-------------|--------|
 | 1 | Basic    | Zero-shot Prompting | Prompting without examples | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/Zero_Shot_Prompting.md)  |

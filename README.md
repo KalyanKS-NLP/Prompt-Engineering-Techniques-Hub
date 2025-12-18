@@ -13,6 +13,12 @@ This repo contains implementation of 25+ prompt engineering techniques.
 	
 </p>
 
+
+## Related Repositories
+- 🚀[LLM Interview Questions and Answers](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub)  - 100+ LLM Interview questions with answers.
+- 👨🏻‍💻[LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - Categories wise collection of 120+ LLM, RAG and Agent related libraries. 
+- 🩸[LLM, RAG and Agents Survey Papers Collection](https://github.com/KalyanKS-NLP/LLM-Survey-Papers-Collection) - Category wise collection of 200+ survey papers.
+
 | # | Category | Technique | Description | Learn |
 |---|----------|-----------|-------------|--------|
 | 1 | Basic    | Zero-shot Prompting | Prompting without examples | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/Zero_Shot_Prompting.md)  |
